@@ -1,0 +1,21 @@
+=================================================================
+Texto igual = Epic sadface: Username and password do not match any user in this service e Epic sadface: Username and password do not match any user in this service . - 18.06.2024 - 22.38.17
+=================================================================
+=================================================================
+Texto igual = Epic sadface: Sorry, this user has been locked out. e Epic sadface: Sorry, this user has been locked out. . - 18.06.2024 - 22.38.24
+=================================================================
+=================================================================
+Texto igual = Epic sadface: Password is required e Epic sadface: Password is required . - 18.06.2024 - 22.38.33
+=================================================================
+=================================================================
+Texto igual = Epic sadface: Username and password do not match any user in this service e Epic sadface: Username and password do not match any user in this service . - 18.06.2024 - 22.38.46
+=================================================================
+=================================================================
+Texto igual = Epic sadface: Username is required e Epic sadface: Username is required . - 18.06.2024 - 22.38.54
+=================================================================
+=================================================================
+Logout realizado com sucesso! - 18.06.2024 - 22.39.02
+=================================================================
+=================================================================
+Login realizado com sucesso! - 18.06.2024 - 22.39.09
+=================================================================
